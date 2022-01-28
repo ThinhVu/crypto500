@@ -1,0 +1,15 @@
+# Crypto500
+
+## Purpose
+
+The project provide icons & a little amount of data of top 400 -> 500 coins, tokens in marketcap.
+Created for someone who want to build things related to crytocurrency quick.
+
+## Contribute
+
+The metadata currently contain only name and symbol of a coin, tokens and it lack a lot of information. 
+Feel free to add more information to the metadata as you want. I'm willing to merge it to main branch so that we all get benefit from it.
+
+## Roadmap
+
+- Make a bot which crawl coinmarketcap. Comming soon....
